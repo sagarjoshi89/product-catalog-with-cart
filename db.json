@@ -1,0 +1,58 @@
+{
+  "products_invertory": [
+    {
+      "id": 1,
+      "availableQty": 106,
+      "maxQtyPerOrder": 2
+    },
+    {
+      "id": 2,
+      "availableQty": 10,
+      "maxQtyPerOrder": 2
+    },
+    {
+      "id": 3,
+      "availableQty": 10,
+      "maxQtyPerOrder": 3
+    },
+    {
+      "id": 4,
+      "availableQty": 2,
+      "maxQtyPerOrder": 3
+    },
+    {
+      "id": 5,
+      "availableQty": 100,
+      "maxQtyPerOrder": 2
+    },
+    {
+      "id": 6,
+      "availableQty": 106,
+      "maxQtyPerOrder": 2
+    },
+    {
+      "id": 7,
+      "availableQty": 99,
+      "maxQtyPerOrder": 2
+    },
+    {
+      "id": 8,
+      "availableQty": 97,
+      "maxQtyPerOrder": 2
+    },
+    {
+      "id": 9,
+      "availableQty": 96,
+      "maxQtyPerOrder": 2
+    },
+    {
+      "id": 10,
+      "availableQty": 0,
+      "maxQtyPerOrder": 2
+    }
+  ],
+  "cart": {
+    "products": [],
+    "total": 0
+  }
+}
